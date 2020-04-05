@@ -1,1 +1,1 @@
-int myfun(int a, int b);
+int myfun(int, int);
